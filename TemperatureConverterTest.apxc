@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 @isTest /* @description */
+=======
+@isTest
+>>>>>>> f1b9fadd76b3b3e26f9c6e9a8230d05d05882eac
 private class TemperatureConverterTest {
     @isTest static void testWarmTemp() {
         Decimal celsius = TemperatureConverter.FahrenheitToCelsius(70);
@@ -19,4 +23,8 @@ private class TemperatureConverterTest {
         System.assertEquals(-23.33,celsius);
     }
       
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f1b9fadd76b3b3e26f9c6e9a8230d05d05882eac

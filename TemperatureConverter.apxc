@@ -4,4 +4,8 @@ public class TemperatureConverter {
         Decimal cs = (fh - 32) * 5/9;
         return cs.setScale(2);
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f1b9fadd76b3b3e26f9c6e9a8230d05d05882eac
